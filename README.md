@@ -1,5 +1,5 @@
 # Belajar 
 Belajar GIT
-Branching
+Branching & merge branch & merge request
 
-#Frogs Branch
+Branch -> Copy
